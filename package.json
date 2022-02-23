@@ -1,0 +1,34 @@
+{
+  "name": "advice-generator-app",
+  "version": "1.0.0",
+  "description": "This is a solution to the Advice generator app challenge on Frontend Mentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenishkubavat/Advice-generator-app.git"
+  },
+  "author": "Jenish Kubavat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jenishkubavat/Advice-generator-app/issues"
+  },
+  "homepage": "https://github.com/Jenishkubavat/Advice-generator-app#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.0.0",
+    "browser-sync": "^2.26.13",
+    "cssnano": "^5.0.17",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-replace": "^1.1.3",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "postcss": "^8.4.6",
+    "sass": "^1.49.7"
+  }
+  
+}
